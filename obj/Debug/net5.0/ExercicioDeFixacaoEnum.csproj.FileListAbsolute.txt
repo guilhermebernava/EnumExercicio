@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.exe
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.deps.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.runtimeconfig.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ref\ExercicioDeFixacaoEnum.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\bin\Debug\net5.0\ExercicioDeFixacaoEnum.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ref\ExercicioDeFixacaoEnum.dll
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2022\Projects\ExercicioDeFixacaoEnum\ExercicioDeFixacaoEnum\obj\Debug\net5.0\ExercicioDeFixacaoEnum.genruntimeconfig.cache
